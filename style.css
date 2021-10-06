@@ -24,7 +24,7 @@
   width: 6rem;
   height: 6rem;
   content: "New";
-  background-image: url(../images/serrated.png);
+  background-image: url(./images/serrated.png);
   background-color: unset;
   background-repeat: no-repeat;
   background-position: center;
@@ -156,11 +156,3 @@
   background-color: #b6c6c9;
   transition: all 0.3s ease;
 }
-
-/* Respónive */
-/* @media (max-width: 1002px) {
-  .pricing {
-    --colum: 2;
-  }
-
-} */
